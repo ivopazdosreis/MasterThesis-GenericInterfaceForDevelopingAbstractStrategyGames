@@ -1,0 +1,16 @@
+(game
+	(title "untitled")
+	(players Player1 Player2)
+	(turn-order Player1 Player2)
+	(board
+		(image "images\TicTacToe\TTTbrd.bmp")
+		(grid
+			(start-rectangle 16 16 112 112) ; top-left position
+			(dimensions ; 3x3
+				("a/b/c" (112 0)) ; columns
+				("3/2/1" (0 112)) ; rows
+			)
+			(directions (n -1 0) (e 0 1) (nw -1 -1) (ne -1 1))
+		)
+	)
+)

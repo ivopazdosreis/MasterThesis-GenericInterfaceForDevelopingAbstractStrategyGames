@@ -1,0 +1,14 @@
+C:\Users\Ivo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AbstractGamesCreationKit.exe.manifest
+C:\Users\Ivo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AbstractGamesCreationKit.application
+C:\Users\Ivo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AbstractGamesCreationKit.exe
+C:\Users\Ivo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AbstractGamesCreationKit.pdb
+C:\Users\Ivo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\AbstractGamesCreationKit.MainWindow.resources
+C:\Users\Ivo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\AbstractGamesCreationKit.FormMultipleMoves.resources
+C:\Users\Ivo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\AbstractGamesCreationKit.Properties.Resources.resources
+C:\Users\Ivo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ivo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ivo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\AbstractGamesCreationKit.exe.manifest
+C:\Users\Ivo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\AbstractGamesCreationKit.application
+C:\Users\Ivo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\AbstractGamesCreationKit.exe
+C:\Users\Ivo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\AbstractGamesCreationKit.pdb

@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AbstractGamesCreationKit.MainWindow" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>Z9/9X8++In+krZ9XtLv/zj7P957df3ZTh/Rf9Xd/13M=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractGamesCreationKit.FormMultipleMoves" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <InheritanceLine Type="System.Windows.Forms.Form" FixedToPoint="true">
+      <Path>
+        <Point X="3.75" Y="4.191" />
+        <Point X="3.75" Y="4.812" />
+        <Point X="2.25" Y="4.812" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>hJCEAAAEgCAAARAiAACgBgAGJAAAkAAQhSAQAAAAAKA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractGamesCreationKit.GameData" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="AbstractGamesCreationKit.GameData.Slide">
+        <Compartments>
+          <Compartment Name="Properties" Collapsed="true" />
+          <Compartment Name="Methods" Collapsed="true" />
+        </Compartments>
+        <TypeIdentifier>
+          <NewMemberFileName>GameData.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AbstractGamesCreationKit.GameData.Goal" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameData.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AbstractGamesCreationKit.GameData.Piece" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameData.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AbstractGamesCreationKit.GameData.Move" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameData.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AbstractGamesCreationKit.GameData.Zone">
+        <Compartments>
+          <Compartment Name="Properties" Collapsed="true" />
+          <Compartment Name="Methods" Collapsed="true" />
+        </Compartments>
+        <TypeIdentifier>
+          <NewMemberFileName>GameData.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AbstractGamesCreationKit.GameData.Promotion">
+        <Compartments>
+          <Compartment Name="Properties" Collapsed="true" />
+          <Compartment Name="Methods" Collapsed="true" />
+        </Compartments>
+        <TypeIdentifier>
+          <NewMemberFileName>GameData.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AbstractGamesCreationKit.GameData.Jump" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameData.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AbstractGamesCreationKit.GameData.Rectangle">
+        <Compartments>
+          <Compartment Name="Fields" Collapsed="true" />
+          <Compartment Name="Methods" Collapsed="true" />
+        </Compartments>
+        <TypeIdentifier>
+          <NewMemberFileName>GameData.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AbstractGamesCreationKit.GameData.Swap">
+        <Compartments>
+          <Compartment Name="Properties" Collapsed="true" />
+          <Compartment Name="Methods" Collapsed="true" />
+        </Compartments>
+        <TypeIdentifier>
+          <NewMemberFileName>GameData.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AbstractGamesCreationKit.GameData.MultipleMove" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameData.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AbstractGamesCreationKit.GameData.Drop" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameData.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAEAiAACiBAsgACAQCSgLAAHCCAABACBAgRDgAEAACA=</HashCode>
+      <FileName>GameData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractGamesCreationKit.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAACkAAAAAAgAAAAAABCAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractGamesCreationKit.XmlManager" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAASEAIBAAAAACAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>XmlManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractGamesCreationKit.ZRFCreator" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAACSQhSKAAAACSlEAIAAqADCggCAQCR0QAKGAoLAg=</HashCode>
+      <FileName>ZRFCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Form.ControlCollection" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,23 @@
+<game>
+    <GamePath>c:\zillions\</GamePath>
+    <GameTitle>untitled</GameTitle>
+    <P1Name>Player1</P1Name>
+    <P2Name>Player2</P2Name>
+    <Color1>
+		<r>128</r>
+		<g>0</g>
+		<b>0</b>
+		<a>255</a>
+	</Color1>
+	<Color2>
+		<r>0</r>
+		<g>0</g>
+		<b>0</b>
+		<a>255</a>
+	</Color2>
+	<AutomaticBoard>true</AutomaticBoard>
+    <BoardRowNumber>6</BoardRowNumber>
+    <BoardColumnNumber>6</BoardColumnNumber>
+    <PassTurn>0</PassTurn>
+	<BoardSymmetry>All</BoardSymmetry>
+</game>
