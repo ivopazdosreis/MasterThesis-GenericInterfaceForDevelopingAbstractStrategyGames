@@ -1,4 +1,4 @@
-# Master-s-Thesis---Generic-Interface-for-Developing-Abstract-Strategy-Games
+# MasterThesis-GenericInterfaceForDevelopingAbstractStrategyGames
 
 For my final year R&D project I designed and developed a software platform capable of creating several distinct board games depending on user’s choices, entitled “Generic Interface for Developing Abstract Strategy Games”. Covering the fields of Artificial Intelligence, General Game Playing Systems and Interface Design. Developed with C#, WPF and XML.
 
